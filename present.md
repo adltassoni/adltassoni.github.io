@@ -191,30 +191,27 @@ layout: false
 * Formazione di un centro museale scientifico modenese in cui far confluire le collezioni storiche delle scuole
 * Coinvolgimento degli studenti e dei docenti della scuola in un possibile futuro polo tecnologico/culturale cittadino
 
----
-
-name: inverse
-layout: true
-class: center, middle, inverse
-
-# Un avvertimento prima di cominciare...
-A chi discende nello stesso fiume sopraggiungono acque sempre nuove.
-(Eraclito, DS 12)
 
 
 ---
-
-layout: false
 
 ## Modulo 2 - Il museo virtuale
 
 
 .whole-center-img[![gantt](gantt.svg)]
 
+
+---
+template: inverse
+
+# Un avvertimento prima di cominciare...
+
+A chi discende nello stesso fiume sopraggiungono acque sempre nuove.
+(Eraclito, DS 12)
+
 ---
 
 ## Modulo 2 - Il museo virtuale
-
 
 .whole-img[![schemaI](schemaI.svg)]
 
