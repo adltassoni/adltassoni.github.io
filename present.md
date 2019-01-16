@@ -268,3 +268,8 @@ A chi discende nello stesso fiume sopraggiungono acque sempre nuove.
 * presentazione della proposta (5 min. a gruppo)
 
 ---
+
+## Modulo 2 - Il museo virtuale
+
+
+.linkbig[[https://adltassoni.github.io/](https://adltassoni.github.io/)]
