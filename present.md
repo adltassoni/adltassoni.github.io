@@ -246,7 +246,7 @@ A chi discende nello stesso fiume sopraggiungono acque sempre nuove.
 
 ### Musei della scienza
 - [Science museum](https://collection.sciencemuseum.org.uk/)
-- [Museo della scienza](www.museoscienza.org)
+- [Museo della scienza](https://www.museoscienza.org)
 
 
 ---
